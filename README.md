@@ -117,4 +117,5 @@ Sinta-se livre para abrir *issues* ou enviar *pull requests*.
 Analista de Inteligência de Negócios • Power BI • Microsoft Fabric • SSIS/ETL  
 GitHub: https://github.com/axlrn  
 LinkedIn: https://www.linkedin.com/in/renan-oliveira-andrade/
+
 Linktree: https://linktr.ee/axlrn
